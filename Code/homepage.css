@@ -1,0 +1,94 @@
+/*  For all pages*/
+.navi  {
+    background-color: #7e7777;
+    overflow: hidden;
+    border:3px;
+    font-family: 'Oswald', sans-serif;
+
+}
+.full{
+  color: #f7f1f1;
+  text-align:center}
+
+.full_center{
+  color: #f7f1f1;
+  text-align:center}
+  
+.navi a {
+    
+  color: #f7f1f1;
+  text-align: center;
+  padding: 28px 32px;
+  display:inline-block;
+  text-decoration: none;
+  font-size: 17px;
+}
+.navi a:hover {
+    background-color:#555353;
+    color: rgb(235, 200, 178);
+  }
+  .navi a.active {
+    background-color: #A17188;
+    color: white;
+  }
+  
+  .navi-centered a {
+    float: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
+    .navi-right {
+        float: right;
+      }
+      body {
+		  color: #f7f1f1;
+        font-family: 'Cardo', serif;
+		 background-image: url('images/21.jpg')
+        }
+       h2, h3, h4, h5, h6 {
+		   
+        font-family: 'Oswald', sans-serif;
+        text-transform: uppercase;
+       }
+	   h1{ 
+	   text-align:center;
+		   color: #f7f1f1;
+		    margin-left: 40px;
+			 text-transform: uppercase;
+	   }
+       /* Contact us html css */
+       form {
+        font-family: 'Oswald', sans-serif;
+        font-size: 18px;
+       }
+       textarea{
+           width: 80%;
+           height: 150px;
+           padding:14px 20px;
+       }
+       form .submit {
+           background: #555353;
+           font-family: 'Oswald', sans-serif;
+           color: #fff;
+           border-color: none;
+           font-size:20px;
+           letter-spacing: 2px;
+       }
+       form .submit:hover 
+       {
+           background: #A17188;
+           cursor: pointer;
+           font-family: 'Oswald', sans-serif;
+           color: #fff;
+           border-color: none;
+           font-size:20px;
+           letter-spacing: 2px;
+       }
+      
+	   
+	  #artists {
+        font-family: 'Oswald', sans-serif;
+
+       }
+	  

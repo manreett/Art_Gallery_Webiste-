@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Log In</title>
+<link rel="stylesheet" href="Form1.css">
+<style>
+body{
+background-image: url('images/21.jpg')}
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color:#A17188 ;
+  color: white;
+}
+</style>
+</head>
+<div class="top">
+<h3><a href="LoginForm.html">Login</a></h3>
+<h3><a href="SignupForm.html">Sign Up</a></h3>
+</div>
+<section>
+    <div id="form">
+<form id ="loginform" action="login.php" method="post">
+<p>Email</p>
+<p><input type="email" name="email" /></p>
+<p>Password</p>
+<p><input type="password" name="password"/></p>
+<p><input type="submit" name="loginBtn" value="Login" class="submit-btn"/></p>
+</form>
+</div>
+</section>
+</body>
+</html>

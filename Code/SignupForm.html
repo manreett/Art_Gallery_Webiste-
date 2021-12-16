@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>Sign Up Page</title>
+<link rel="stylesheet" href="Form2.css">
+<style>
+body{
+background-image: url('images/21.jpg');}
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color:#A17188 ;
+  color: white;
+}
+</style>
+</head>
+<body>
+    <section>
+<div id="topper">
+    <form id="signupform" action ="signup.php" method="post"> 
+		<p>FirstName:</p>
+	<p><input type="text" name="firstname"/></p>
+	<p>LastName:</p>
+	<p><input type="text" name="lastname"/></p>
+	<p>Username:</p>
+	<p><input type="text" name="username"/></p>
+	<p>Password:</p>
+	<p><input type="password" name="password"/></p>
+	<p>Confirmed Password:</p>
+	<p><input type="password" name="confirmpassword"/></p>
+	<p>EmailAddress:</p>
+	<p><input type="email" name="email"/></p>
+    <p><input type="submit" name="sinupBtn" value="SignUp" class="submit-btn"/></p>
+</form>
+</div>
+</section>
+</br>
+<p style="color:white   " > Already have an account  <a href="LoginForm.html">Log In</a></p>
+</body>
+</html>

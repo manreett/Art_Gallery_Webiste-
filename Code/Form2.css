@@ -1,0 +1,26 @@
+form {
+    border:3px solid #A17188;
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+   }
+   .form_ {
+    display: table;
+   width: 100%;
+}
+a{
+	color:white;
+}
+p{
+    text-align: center;
+    font-size: 22px;
+    color:white;
+}
+#signupform{  
+    width: 382px;  
+    overflow: hidden;  
+    margin: auto;  
+    margin: 20 0 0 350px;  
+    padding: 80px;  
+    background: #A17188; 
+    border-radius: 15px ; 
+}
