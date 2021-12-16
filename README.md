@@ -30,7 +30,7 @@ This website will be free to visit and would only require a stable internet conn
 This will be the best project from which people who are busy,or introverts can benefit the most as they don’t have to worry about going anywhere specific to see art pieces. 
 This website will be the best as people can enjoy their favorite habit or passion without worrying about coronavirus.
 
-#How To run the ArtGallery
+# How To run the ArtGallery
 
 
 First the user have to signup filing the signup form.
