@@ -8,8 +8,6 @@ Amour Art Gallery is your online gateway to discovering beautiful art pieces wit
 - [Installation](#installation)
 - [How to Run the Art Gallery](#how-to-run-the-art-gallery)
 - [Major Features](#major-features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Vision and Scope
 
@@ -29,6 +27,14 @@ Amour Art Gallery is your online gateway to discovering beautiful art pieces wit
 **Project Scope:** This website allows art lovers to buy and explore art pieces online. It's free to visit and only requires a stable internet connection. It provides a safe and convenient way for people, including those with busy schedules or introverted tendencies, to enjoy art without the worry of COVID-19.
 
 ## Installation
+To set up the Amour Art Gallery website, follow these installation steps:
+
+1. **Clone the Repository:**
+
+   Clone this GitHub repository to your local machine:
+
+   ```bash
+   git clone https://github.com/yourusername/Amour_Art_Gallery.git
 
 Follow these steps to set up and run the Amour Art Gallery website:
 
