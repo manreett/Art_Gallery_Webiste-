@@ -13,6 +13,8 @@ Amour Art Gallery is your online gateway to discovering beautiful art pieces wit
 
 **Vision Statement:** Amour Art Gallery is a website designed to showcase art created by different artists, allowing art enthusiasts to purchase pieces with just a few clicks.
 
+**Project Scope:** This website allows art lovers to buy and explore art pieces online. It's free to visit and only requires a stable internet connection. It provides a safe and convenient way for people, including those with busy schedules or introverted tendencies, to enjoy art without the worry of COVID-19.
+
 ## Software Requirements and Design
 
 Before creating the Amour Art Gallery website, we followed a structured approach:
@@ -25,8 +27,6 @@ Before creating the Amour Art Gallery website, we followed a structured approach
 
 **Design Propositions:**  The website's layout, user interface, and overall user experience were designed based on the gathered requirements and feedback.  We focused on creating a visually appealing and intuitive platform.
 
-
-**Project Scope:** This website allows art lovers to buy and explore art pieces online. It's free to visit and only requires a stable internet connection. It provides a safe and convenient way for people, including those with busy schedules or introverted tendencies, to enjoy art without the worry of COVID-19.
 
 ## Installation
 To set up the Amour Art Gallery website, follow these installation steps:
