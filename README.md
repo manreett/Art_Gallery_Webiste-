@@ -21,9 +21,9 @@ Before creating the Amour Art Gallery website, we followed a structured approach
 
 **Use Cases:** Created detailed use cases to understand how users would interact with the website. These use cases helped in designing user-friendly features and workflows.
 
-**Stakeholder Involvement:** During the development of the Amour Art Gallery website, we actively involved our classmates as stakeholders. These classmates played a crucial role in providing feedback and suggestions to enhance the project. Their perspectives as potential users of the platform helped shape the website's features and user experience.
+**Stakeholder Involvement:** During the development of the Amour Art Gallery website, classmates as stakeholders were actively involved. These classmates played a crucial role in providing feedback and suggestions to enhance the project. Their perspectives as potential users of the platform helped shape the website's features and user experience.
 
-**Design Propositions:**  Based on the gathered requirements and feedback,  the website's layout, user interface, and overall user experience were designed.  We focused on creating a visually appealing and intuitive platform.
+**Design Propositions:**  The website's layout, user interface, and overall user experience were designed based on the gathered requirements and feedback.  We focused on creating a visually appealing and intuitive platform.
 
 **Major Features:**
 - **Login Page and Sign Up Page:** Create an account or log in to access the gallery.
