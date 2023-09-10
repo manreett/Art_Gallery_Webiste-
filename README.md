@@ -25,16 +25,6 @@ Before creating the Amour Art Gallery website, we followed a structured approach
 
 **Design Propositions:**  The website's layout, user interface, and overall user experience were designed based on the gathered requirements and feedback.  We focused on creating a visually appealing and intuitive platform.
 
-**Major Features:**
-- **Login Page and Sign Up Page:** Create an account or log in to access the gallery.
-- **Customizable Fonts, Colors, and Backgrounds:** Personalize your viewing experience.
-- **Collection Page:** Explore a diverse range of art pieces.
-- **Sales Page:** Purchase art pieces you love.
-- **Artist Page:** Learn about the artists and their contributions.
-- **About Us Page:** Discover more about our mission and vision.
-- **FAQ Page:** Get answers to frequently asked questions.
-- **Contact Us Page:** Reach out to us for inquiries or feedback.
-- **Log Out Option:** Easily exit the website.
 
 **Project Scope:** This website allows art lovers to buy and explore art pieces online. It's free to visit and only requires a stable internet connection. It provides a safe and convenient way for people, including those with busy schedules or introverted tendencies, to enjoy art without the worry of COVID-19.
 
@@ -66,7 +56,17 @@ To set up the Amour Art Gallery website, follow these installation steps:
    - Open a web browser and navigate to your website's URL (e.g., http://localhost/). You should now see the Amour Art Gallery website up and running.
 
 
-
+**Major Features:**
+- **Login Page and Sign Up Page:** Create an account or log in to access the gallery.
+- **Customizable Fonts, Colors, and Backgrounds:** Personalize your viewing experience.
+- **Collection Page:** Explore a diverse range of art pieces.
+- **Sales Page:** Purchase art pieces you love.
+- **Artist Page:** Learn about the artists and their contributions.
+- **About Us Page:** Discover more about our mission and vision.
+- **FAQ Page:** Get answers to frequently asked questions.
+- **Contact Us Page:** Reach out to us for inquiries or feedback.
+- **Log Out Option:** Easily exit the website.
+- 
 Amour Art Gallery is your virtual art sanctuary, providing a safe and accessible way to embrace your passion for art.
 
 Enjoy your journey through the world of art!
