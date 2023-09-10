@@ -1,46 +1,38 @@
-# ArtGalleryWebsite
-The Amour Art Gallery is an online way of finding beautiful art pieces without risking getting covid19. 
-It lets you connect with the world of art virtually. We have made this online gallery so one can buy art and will receive it anywhere in the world. 
-It’s the perfect place to find every kind of art.
-Project Vision and Scope
-Vision Statement - Amour Art Gallery is a website that will allow people to see the art made by different artists and people can buy art pieces with just some clicks.
-Major Features – Amour Art Gallery will Have
+# Amour Art Gallery
 
-●	Login Page and Sign Up Page
+Amour Art Gallery is your online gateway to discovering beautiful art pieces without leaving the safety of your home. Explore a virtual world of art, connect with artists, and purchase art from anywhere in the world. It's your perfect destination for all kinds of art.
 
-●	customizable fonts, colors, and backgrounds
+## Table of Contents
 
-●	Collection page which will have all the different kinds of art pieces
+- [Project Vision and Scope](#project-vision-and-scope)
+- [Installation](#installation)
+- [How to Run the Art Gallery](#how-to-run-the-art-gallery)
+- [Major Features](#major-features)
+- [Contributing](#contributing)
+- [License](#license)
 
-●	Sales Page where users can buy art pieces they like.
+## Project Vision and Scope
 
-●	Artist page which will have information about the artists and their contributions
+**Vision Statement:** Amour Art Gallery is a website designed to showcase art created by different artists, allowing art enthusiasts to purchase pieces with just a few clicks.
 
-●	About us Page
+**Major Features:**
+- **Login Page and Sign Up Page:** Create an account or log in to access the gallery.
+- **Customizable Fonts, Colors, and Backgrounds:** Personalize your viewing experience.
+- **Collection Page:** Explore a diverse range of art pieces.
+- **Sales Page:** Purchase art pieces you love.
+- **Artist Page:** Learn about the artists and their contributions.
+- **About Us Page:** Discover more about our mission and vision.
+- **FAQ Page:** Get answers to frequently asked questions.
+- **Contact Us Page:** Reach out to us for inquiries or feedback.
+- **Log Out Option:** Easily exit the website.
 
-●	A page called FAQ which will provide information about the
+**Project Scope:** This website allows art lovers to buy and explore art pieces online. It's free to visit and only requires a stable internet connection. It provides a safe and convenient way for people, including those with busy schedules or introverted tendencies, to enjoy art without the worry of COVID-19.
 
-●	Contact Us Page which will allow users to send us a message or call us for inquiries
+## Installation
 
-●	Log Out Option
+Follow these steps to set up and run the Amour Art Gallery website:
 
+1. Clone the repository to your local machine:
 
-Project Scope - This project will have let the art lovers to buy and as well see the art pieces online. 
-This website will be free to visit and would only require a stable internet connection. 
-This will be the best project from which people who are busy,or introverts can benefit the most as they don’t have to worry about going anywhere specific to see art pieces. 
-This website will be the best as people can enjoy their favorite habit or passion without worrying about coronavirus.
-
-# How To run the ArtGallery
-
-
-First the user have to signup filing the signup form.
-Then user login the website with the user name and password used.
-User can then see two options, Home Page and LogoutPage
-By clicking on HomePage , user is directed to the website.
-There user can click on diffrent pages depending upon their needs.
-User can buy art from sales page and proceed to checkout
-If the user changes the mind to buy , then it can click on HomePage to back to the webiste.
-User can contact the website to ask questions or provide feedback throug contact us page .
-In the FAQ page , it shows the frequently asked qusteions
-User can aslo go to collection page to enjoy viewing art 
-Lastly user clicks on Logout before closing the webiste 
+   ```bash
+   git clone https://github.com/manreett/Art_Gallery_Website-.git
