@@ -56,7 +56,7 @@ To set up the Amour Art Gallery website, follow these installation steps:
    - Open a web browser and navigate to your website's URL (e.g., http://localhost/). You should now see the Amour Art Gallery website up and running.
 
 
-**Major Features:**
+## Major Features:
 - **Login Page and Sign Up Page:** Create an account or log in to access the gallery.
 - **Customizable Fonts, Colors, and Backgrounds:** Personalize your viewing experience.
 - **Collection Page:** Explore a diverse range of art pieces.
