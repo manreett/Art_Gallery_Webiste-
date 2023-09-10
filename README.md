@@ -36,9 +36,21 @@ To set up the Amour Art Gallery website, follow these installation steps:
    ```bash
    git clone https://github.com/yourusername/Amour_Art_Gallery.git
 
-Follow these steps to set up and run the Amour Art Gallery website:
+2. **Move Files to WampServer Directory**:
+  - Move all the files from the cloned repository to the root directory of your web server (e.g., htdocs for Apache).
 
-1. Clone the repository to your local machine:
+3. **Database Setup**:
+   - Database File: The database file, user.sql, is included in the Database folder.
+   - Create Database: Use a MySQL client or tool to create a new database (e.g., amour_art_gallery).
+   - Import Data: Import the data from user.sql into the newly created database.
 
-   ```bash
-   git clone https://github.com/manreett/Art_Gallery_Website-.git
+5. **Configuration**:
+   - Update your website's configuration to connect to the database. Locate the configuration file (e.g., config.php) and enter your database credentials.
+     
+6. **Start Your Web Serve**:
+   - Ensure your web server (e.g., Apache) is running.
+     
+7. **Access the Website**:
+   - Open a web browser and navigate to your website's URL (e.g., http://localhost/). You should now see the Amour Art Gallery website up and running.
+
+
