@@ -55,16 +55,16 @@ To set up the Amour Art Gallery website, follow these installation steps:
 
 ## How to Run the Art Gallery
 
-1.**Sign Up:** Start by signing up using the registration form.
-2.**Login:** Log in with your username and password.
-3.**Homepage:** Upon* logging in, you can access the homepage.
-4.**Explore:** Browse different pages to discover art and artists.
-5.**Purchase Art:** If you find art you love, visit the Sales Page and proceed to checkout.
-6.**Change Your Mind:** At any point, you can return to the homepage for further exploration.
-7.**Contact Us:** Use the Contact Us Page for inquiries or to provide feedback.
-8.**FAQ:** Find answers to common questions on the FAQ page.
-9.**Enjoy Art:** Visit the Collection Page to enjoy viewing art.
-10.**Logout:** Always remember to log out before closing the website.
+1. **Sign Up:** Start by signing up using the registration form.
+2. **Login:** Log in with your username and password.
+3. **Homepage:** Upon* logging in, you can access the homepage.
+4. **Explore:** Browse different pages to discover art and artists.
+5. **Purchase Art:** If you find art you love, visit the Sales Page and proceed to checkout.
+6. **Change Your Mind:** At any point, you can return to the homepage for further exploration.
+7. **Contact Us:** Use the Contact Us Page for inquiries or to provide feedback.
+8. **FAQ:** Find answers to common questions on the FAQ page.
+9. **Enjoy Art:** Visit the Collection Page to enjoy viewing art.
+10. **Logout:** Always remember to log out before closing the website.
 
 Amour Art Gallery is your virtual art sanctuary, providing a safe and accessible way to embrace your passion for art.
 
