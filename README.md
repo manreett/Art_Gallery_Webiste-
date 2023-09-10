@@ -66,7 +66,7 @@ To set up the Amour Art Gallery website, follow these installation steps:
 - **FAQ Page:** Get answers to frequently asked questions.
 - **Contact Us Page:** Reach out to us for inquiries or feedback.
 - **Log Out Option:** Easily exit the website.
-- 
+  
 Amour Art Gallery is your virtual art sanctuary, providing a safe and accessible way to embrace your passion for art.
 
 Enjoy your journey through the world of art!
